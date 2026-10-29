@@ -1,14 +1,32 @@
-title: 颂钵疗愈师培训教材 | Sings Bowl Healing Course
+title: 颂钵疗愈师培训教材
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 description: >
   开源颂钵疗愈师培训教材：涵盖颂钵基础理论、实践操作、自然疗法等系统课程。
   适合疗愈师入门、冥想爱好者与身心自愈学习者参考。
 url: https://q1z2q3-debug.github.io/singbowl-healing-course
-theme: jekyll-theme-cayman
 lang: zh-CN
 author:
   name: RUNZEAI
   email: 309879863+q1z2q3-debug@users.noreply.github.com
 timezone: Asia/Shanghai
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+
+# Just the Docs 导航配置
+nav_order: 1
+
+# 搜索配置
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# 站点页脚
+footer_content: "颂钵疗愈师培训教材 | Sings Bowl Healing Course | MIT Licensed"

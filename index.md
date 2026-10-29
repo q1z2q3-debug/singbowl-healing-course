@@ -1,5 +1,8 @@
 ---
 layout: default
+title: 颂钵疗愈师培训教材
+nav_order: 1
+has_toc: true
 ---
 
 # 颂钵疗愈师培训教材
