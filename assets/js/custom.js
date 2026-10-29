@@ -102,3 +102,20 @@
     URL.revokeObjectURL(url);
   };
 })();
+
+// 中/英语言切换按钮
+(function() {
+  const BASE = '/singbowl-healing-course';
+  const path = window.location.pathname;
+  const isEn = path.indexOf('/docs/en/') !== -1;
+
+  const btn = document.createElement('a');
+  btn.id = 'lang-switch';
+  btn.href = isEn ? BASE + '/' : BASE + '/docs/en/chapter-01.html';
+  btn.textContent = isEn ? '中文版' : 'English';
+  btn.setAttribute('aria-label', isEn ? '切换到中文版' : 'Switch to English');
+  btn.style.cssText = 'position:fixed;top:14px;right:24px;padding:6px 14px;border-radius:999px;background:rgba(114,83,237,0.92);color:#fff;font-size:13px;text-decoration:none;z-index:1002;box-shadow:0 2px 8px rgba(0,0,0,0.25);letter-spacing:0.5px;';
+  btn.onmouseover = function() { btn.style.opacity = '0.85'; };
+  btn.onmouseout = function() { btn.style.opacity = '1'; };
+  document.body.appendChild(btn);
+})();
