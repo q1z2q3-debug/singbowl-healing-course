@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f6f3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8e4df;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="beginnerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7cb342;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#558b2f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="intermediateGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffa726;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f57c00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="advancedGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ab47bc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="800" height="500" fill="url(#bgGrad)"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="40" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#3e2723">颂钵疗愈师学习路径图</text>
+  <text x="400" y="62" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#6d4c41">Singing Bowl Healing Practitioner Learning Path</text>
+  
+  <!-- 连接线 -->
+  <path d="M 180 120 L 400 120 L 620 120" stroke="#a1887f" stroke-width="3" fill="none" stroke-dasharray="8,4"/>
+  <path d="M 180 300 L 400 300 L 620 300" stroke="#a1887f" stroke-width="3" fill="none" stroke-dasharray="8,4"/>
+  
+  <!-- 纵向连接线 -->
+  <path d="M 180 120 L 180 300" stroke="#a1887f" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M 400 120 L 400 300" stroke="#a1887f" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M 620 120 L 620 300" stroke="#a1887f" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- 初级阶段 -->
+  <rect x="80" y="85" width="200" height="70" rx="12" fill="url(#beginnerGrad)" filter="url(#shadow)"/>
+  <text x="180" y="110" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#fff">初级阶段</text>
+  <text x="180" y="130" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fff">Beginner (1-3 个月)</text>
+  <text x="180" y="145" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#dcedc8">掌握基础 · 自我疗愈</text>
+  
+  <!-- 中级阶段 -->
+  <rect x="300" y="85" width="200" height="70" rx="12" fill="url(#intermediateGrad)" filter="url(#shadow)"/>
+  <text x="400" y="110" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#fff">进阶阶段</text>
+  <text x="400" y="130" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fff">Intermediate (3-6 个月)</text>
+  <text x="400" y="145" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#ffe0b2">服务他人 · 个案实操</text>
+  
+  <!-- 高级阶段 -->
+  <rect x="520" y="85" width="200" height="70" rx="12" fill="url(#advancedGrad)" filter="url(#shadow)"/>
+  <text x="620" y="110" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#fff">高级阶段</text>
+  <text x="620" y="130" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fff">Advanced (6-12 个月)</text>
+  <text x="620" y="145" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#e1bee7">专业疗愈师 · 带领音乐会</text>
+  
+  <!-- 初级内容 -->
+  <rect x="85" y="185" width="190" height="100" rx="8" fill="#fff" stroke="#7cb342" stroke-width="2" filter="url(#shadow)"/>
+  <text x="180" y="205" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#33691e">📚 理论</text>
+  <text x="180" y="222" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">钵体认知 · 声音要素</text>
+  <text x="180" y="237" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">振动基础 · 呼吸练习</text>
+  <text x="180" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#33691e">🧘 实践</text>
+  <text x="180" y="272" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">敲钵 · 磨钵 · 持钵 · 移钵</text>
+  
+  <!-- 中级内容 -->
+  <rect x="305" y="185" width="190" height="100" rx="8" fill="#fff" stroke="#f57c00" stroke-width="2" filter="url(#shadow)"/>
+  <text x="400" y="205" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#e65100">📚 理论</text>
+  <text x="400" y="222" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">能量基础 · 脉轮节奏</text>
+  <text x="400" y="237" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">穴位经络 · 疗愈原理</text>
+  <text x="400" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#e65100">🧘 实践</text>
+  <text x="400" y="272" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">气场清理 · 空间净化</text>
+  <text x="400" y="287" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">单钵/三钵/七钵疗愈</text>
+  
+  <!-- 高级内容 -->
+  <rect x="525" y="185" width="190" height="100" rx="8" fill="#fff" stroke="#7b1fa2" stroke-width="2" filter="url(#shadow)"/>
+  <text x="620" y="205" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#4a148c">📚 理论</text>
+  <text x="620" y="222" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">生命智慧 · 疗愈师修养</text>
+  <text x="620" y="237" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">自然疗法综合 · 元气修复</text>
+  <text x="620" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#4a148c">🧘 实践</text>
+  <text x="620" y="272" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">个案精品流程 · 音乐会演奏</text>
+  <text x="620" y="287" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#555">多钵协同 · 集体疗愈带领</text>
+  
+  <!-- 底部里程碑 -->
+  <circle cx="180" cy="340" r="8" fill="#7cb342"/>
+  <text x="180" y="365" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#33691e">自我疗愈师</text>
+  
+  <circle cx="400" cy="340" r="8" fill="#f57c00"/>
+  <text x="400" y="365" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#e65100">家庭疗愈师</text>
+  
+  <circle cx="620" cy="340" r="8" fill="#7b1fa2"/>
+  <text x="620" y="365" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#4a148c">专业疗愈师</text>
+  
+  <!-- 推荐教材章节 -->
+  <rect x="50" y="390" width="700" height="90" rx="10" fill="#fff" stroke="#8d6e63" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="400" y="415" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#3e2723">📖 推荐教材章节</text>
+  
+  <text x="110" y="440" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#33691e">第一章 初识颂钵</text>
+  <text x="110" y="455" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#33691e">第二章 理论课题（前3节）</text>
+  <text x="110" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#33691e">第三章 案例（基础部分）</text>
+  
+  <text x="400" y="440" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e65100">第二章 理论课题（后3节）</text>
+  <text x="400" y="455" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e65100">第三章 案例（进阶部分）</text>
+  <text x="400" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e65100">第五章 自然疗法</text>
+  
+  <text x="690" y="440" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#4a148c">第四章 颂钵生命智慧</text>
+  <text x="690" y="455" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#4a148c">第三章 音乐会演奏</text>
+  <text x="690" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#4a148c">第五章 高级自然疗法</text>
+</svg>

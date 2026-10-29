@@ -4,6 +4,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
+
+# RSS feed 配置
+feed:
+  path: feed.xml
+  posts_limit: 20
 description: >
   开源颂钵疗愈师培训教材：涵盖颂钵基础理论、实践操作、自然疗法等系统课程。
   适合疗愈师入门、冥想爱好者与身心自愈学习者参考。
