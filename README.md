@@ -1,4 +1,4 @@
-# 颂钵疗愈师培训教材（Sings Bowl Healing Course）
+# 颂钵疗愈师培训教材（Singing Bowl Healing Course）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -24,13 +24,31 @@
 singbowl-healing-course/
 ├── README.md                        # 本说明文件
 ├── LICENSE                          # 开源许可证（MIT）
-├── 课程教材-颂钵疗愈师培训.md         # 教材正文（Markdown）
-└── docs/
-    ├── 导师介绍.md                   # 导师介绍
-    └── assets/
-        ├── 导师宣传照.jpg             # 颂钵疗愈导师宣传照片
-        ├── 导师肖像照.jpg             # 颂钵疗愈导师肖像照片
-        └── 微信二维码.jpg              # 简念颂钵音疗中心微信二维码
+├── index.md                         # GitHub Pages 首页
+├── _config.yml                      # Jekyll 站点配置（Just the Docs 主题）
+├── 课程教材-颂钵疗愈师培训.md         # 教材正文（Markdown，约 6300 行）
+├── docs/
+│   ├── 导师介绍.md                   # 导师介绍
+│   ├── 常见问题.md                   # FAQ（选钵误区 / 禁忌人群 / 自学注意）
+│   ├── 自测题.md                     # 五章 23 题自测题（带折叠答案）
+│   ├── 学习路径图.svg                # 初级→进阶→高级可视化路径
+│   ├── 搜索引擎提交指南.md            # Google / Bing / 百度收录指引
+│   ├── 外链分发-知乎.md / 简书.md / Medium.md
+│   ├── assets/                      # 导师照片、微信二维码等
+│   └── en/                          # 英文版核心章节
+│       ├── chapter-01.md            # Chapter 1: Introduction to Singing Bowls
+│       └── chapter-02.md            # Chapter 2: Theory Foundations
+├── assets/
+│   ├── css/custom.scss              # 移动端适配样式
+│   ├── js/custom.js                 # 进度书签 / 返回顶部 / 中英切换
+│   └── img/og-image.png             # 社交分享预览图（1200×630）
+├── _includes/                       # Schema.org 结构化数据、Giscus 评论、OG 标签
+├── _posts/                          # 开源发布公告（RSS feed 内容源）
+├── Gemfile                          # 站点依赖（jekyll-feed 等）
+├── feed.xml                         # RSS/Atom 订阅（构建时生成）
+├── robots.txt                       # 搜索引擎爬虫指引
+├── sitemap.xml                      # 站点地图（构建时生成）
+└── 404.md                           # 自定义 404 页面
 ```
 
 ## 教材内容
@@ -44,6 +62,21 @@ singbowl-healing-course/
 5. **第五章 自然疗法（初中高）** —— 呼吸、瑜伽、芳香、颂钵、音乐、水晶、饮食、香道、冥想、气功等疗法。
 
 文末附有「附件」章节与参考资料书目。
+
+## 站点功能
+
+在线站点（GitHub Pages）已启用以下升级功能：
+
+- 🔍 **全文搜索** —— 站内即时搜索所有章节与文档
+- 📖 **侧边目录** —— 5 大章节 + 子节自动生成可折叠目录，一键跳转
+- 📱 **移动端适配** —— 触控友好、图片自适应、表格横向滚动
+- 🚀 **返回顶部与阅读进度条** —— 长文阅读体验优化
+- 🔖 **阅读进度书签** —— 浏览器本地记录阅读位置，下次自动恢复
+- 💬 **Giscus 评论** —— 每页底部基于 GitHub Discussions 的评论区
+- ✅ **章节自测题** —— 五章 23 题，可折叠答案，检验学习效果
+- 🌐 **中英切换** —— 英文版核心章节（Chapter 1–2），一键切换
+- 📡 **RSS 订阅** —— 关注教材更新动态（feed.xml）
+- 🔗 **社交分享优化** —— Open Graph / Twitter Card 标签与分享预览图
 
 ## 适用人群
 
