@@ -16,6 +16,9 @@ description: >
 url: https://q1z2q3-debug.github.io
 baseurl: /singbowl-healing-course
 lang: zh-CN
+image: /assets/img/og-image.png
+twitter:
+  card: summary_large_image
 author:
   name: RUNZEAI
   email: 309879863+q1z2q3-debug@users.noreply.github.com
