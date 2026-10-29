@@ -16,6 +16,10 @@ token*
 *.docx
 *.pdf
 
+# Jekyll 构建产物
+_site/
+.jekyll-cache/
+
 # 系统与编辑器文件
 .DS_Store
 Thumbs.db

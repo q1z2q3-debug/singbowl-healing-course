@@ -5,6 +5,10 @@ description: >
 url: https://q1z2q3-debug.github.io/singbowl-healing-course
 theme: jekyll-theme-cayman
 lang: zh-CN
+author:
+  name: RUNZEAI
+  email: 309879863+q1z2q3-debug@users.noreply.github.com
+timezone: Asia/Shanghai
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
