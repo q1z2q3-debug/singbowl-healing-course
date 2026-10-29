@@ -1,0 +1,51 @@
+// 移动端适配与阅读体验增强样式
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16px !important;
+    line-height: 1.7 !important;
+  }
+  
+  .main-content {
+    padding: 1rem !important;
+  }
+  
+  h1 {
+    font-size: 1.75rem !important;
+  }
+  
+  h2 {
+    font-size: 1.4rem !important;
+  }
+  
+  h3 {
+    font-size: 1.2rem !important;
+  }
+  
+  // 增大触控区域
+  a, button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  // 图片自适应
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  // 表格横向滚动
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+// 通用图片自适应
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// 进度条样式已在 JS 中内联，无需额外 CSS
