@@ -17,6 +17,12 @@ url: https://q1z2q3-debug.github.io
 baseurl: /singbowl-healing-course
 lang: zh-CN
 logo: /assets/img/og-image.png
+# 全站页面注入社交媒体分享图（jekyll-seo-tag 从页面 front matter 的 image 键生成 og:image）
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/og-image.png
 author:
   name: RUNZEAI
   email: 309879863+q1z2q3-debug@users.noreply.github.com
