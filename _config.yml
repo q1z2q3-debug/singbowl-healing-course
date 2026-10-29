@@ -13,7 +13,8 @@ feed:
 description: >
   开源颂钵疗愈师培训教材：涵盖颂钵基础理论、实践操作、自然疗法等系统课程。
   适合疗愈师入门、冥想爱好者与身心自愈学习者参考。
-url: https://q1z2q3-debug.github.io/singbowl-healing-course
+url: https://q1z2q3-debug.github.io
+baseurl: /singbowl-healing-course
 lang: zh-CN
 author:
   name: RUNZEAI
