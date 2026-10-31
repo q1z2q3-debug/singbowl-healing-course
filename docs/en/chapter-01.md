@@ -41,7 +41,7 @@ Traditional singing bowls are crafted from an alloy of **seven metals**, each ca
 | **Lead** | Saturn, grounding | ~0.04% |
 | **Mercury** | Mercury, communication | ~0.02% |
 
-> **Scientific Note**: Research by Concordia University confirmed that antique bowls are primarily **copper-tin alloys** (bronze), with trace elements varying by region and era. Bronze, the earliest alloy in metallurgical history, offers superior casting properties, durability, and acoustic resonance compared to pure copper.
+> **Scientific Note**: Research by Concordia University confirmed that antique bowls are primarily **copper-tin alloys** (bronze), with trace elements varying by region and era. Bronze, the earliest alloy in metallurgical history, offers superior casting properties, durability, and acoustic resonance compared to pure copper[2].
 
 ### 1.1.4 Origin & Development
 
@@ -49,7 +49,7 @@ Traditional singing bowls are crafted from an alloy of **seven metals**, each ca
 
 The singing bowl is often called the **"Himalayan Bowl"** (喜马拉雅钵), though its precise origins remain debated. The prevailing narrative traces it to ancient India, where bronze bowls were first used for food preservation and later discovered to have calming effects on the body and mind.
 
-In **Ayurvedic tradition**, bowls were used to promote recovery for postpartum women — the warmth of the metal and the rhythmic sound were believed to restore balance.
+In **Ayurvedic tradition**, bowls were used to promote recovery for postpartum women — the warmth of the metal and the rhythmic sound were believed to restore balance[6].
 
 Over centuries, the bowl traveled along trade routes through Persia (modern Iran), Central Asia, and into the Himalayan regions — Tibet, Nepal, Bhutan, and Northern India — where it became integrated into Buddhist ritual, meditation, and eventually **sound healing practice**.
 
@@ -250,6 +250,15 @@ This practice trains the body to associate the bowl's tone with deep relaxation,
 3. Choosing a bowl involves testing sound quality, weight, and personal resonance
 4. Basic techniques (striking, rimming, placing, moving) form the foundation of practice
 5. The bowl is both a **musical instrument** and an **energy tool** — respect and intention amplify its effects
+
+---
+
+## References
+
+Numbered citations in this chapter follow the GB/T 7714 sequential coding system used across the full course materials. See the complete bilingual bibliography: [docs/参考文献.md](../参考文献.md).
+
+- [2] Ma Chengyuan. *Chinese Bronzes* (中国青铜器)[M]. Shanghai: Shanghai Ancient Works Publishing House, 2003.
+- [6] Classical Ayurvedic texts (Charaka Saṃhitā, etc.)[M]. Ancient India.
 
 ---
 

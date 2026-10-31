@@ -146,7 +146,7 @@ When two oscillators are coupled (e.g., a bowl and a human body):
 
 ### 2.3.1 The Three Nadis (三脉)
 
-In Yogic and Ayurvedic anatomy, **nadis** are subtle energy channels. The three primary nadis form the foundation of the energy body:
+In Yogic and Ayurvedic anatomy, **nadis** are subtle energy channels. The three primary nadis form the foundation of the energy body[13]:
 
 | Nadi | Sanskrit | Location | Function |
 |------|----------|----------|----------|
@@ -162,7 +162,7 @@ In Yogic and Ayurvedic anatomy, **nadis** are subtle energy channels. The three 
 
 ### 2.3.2 The Seven Chakras (七轮)
 
-The chakra system maps energy centers along the Sushumna nadi. Each chakra corresponds to specific physical glands, psychological functions, and sound frequencies:
+The chakra system maps energy centers along the Sushumna nadi. Each chakra corresponds to specific physical glands, psychological functions, and sound frequencies[13]:
 
 | Chakra | Sanskrit | Location | Color | Note | Gland | Psychological Theme |
 |--------|----------|----------|-------|------|-------|-------------------|
@@ -207,7 +207,7 @@ While the subtle energy frameworks (nadis, chakras, doshas) derive from ancient 
 - **Fascia Research**: The body's connective tissue network (fascia) conducts mechanical vibration and may serve as a "liquid crystal" information network — a potential physical correlate for nadis
 - **Biophoton Emission**: All living cells emit ultra-weak light (biophotons). Some researchers speculate that energy healing modalities may influence this emission
 - **Heart Rate Variability (HRV)**: Sound therapy has been shown to improve HRV, indicating enhanced autonomic balance — this aligns with the "balancing" goal of chakra/dosha work
-- **Brainwave Entrainment**: EEG studies show that repetitive rhythmic auditory stimulation can shift brainwave patterns toward alpha (relaxation) and theta (deep meditation) states
+- **Brainwave Entrainment**: EEG studies show that repetitive rhythmic auditory stimulation can shift brainwave patterns toward alpha (relaxation) and theta (deep meditation) states[14-15]
 
 > **Caveat**: The energetic models should be understood as **heuristic frameworks** — useful maps for practice — rather than proven biological mechanisms. Always integrate with conventional medical care when addressing health conditions.
 
@@ -328,6 +328,19 @@ Traditional Chinese Medicine's **meridian system** offers precise maps for bowl 
 3. **Energy frameworks** (chakras, meridians, doshas) provide useful maps for practice, even as science continues exploring their mechanisms
 4. **Chakra frequencies** and **meridian pathways** offer precise targeting for specific conditions
 5. **Safety first**: Know contraindications, work within scope, integrate with conventional care
+
+---
+
+## References
+
+Numbered citations in this chapter follow the GB/T 7714 sequential coding system used across the full course materials. See the complete bilingual bibliography: [docs/参考文献.md](../参考文献.md).
+
+- [9] Misrani A, Yang L, Long C, et al. Vibration-reduced anxiety-like behavior relies on ameliorating abnormalities of the somatosensory cortex and medial prefrontal cortex[J]. Neural Regeneration Research, 2024.
+- [10] Goldsby T L, et al. Effects of singing bowl sound meditation on mood, tension, and well-being: an observational study[J]. Journal of Evidence-Based Complementary & Alternative Medicine, 2017, 22(3): 401-406.
+- [11] Landry J M. Physiological and psychological effects of a Himalayan singing bowl in meditation practice: a quantitative analysis[J]. American Journal of Health Promotion, 2014, 28(5): 306-309.
+- [13] Judith A. Wheels of Life: A User's Guide to the Chakra System[M]. St. Paul: Llewellyn Publications, 2006.
+- [14] Berger H. Über das Elektroenkephalogramm des Menschen[J]. Archiv für Psychiatrie und Nervenkrankheiten, 1929, 87(1): 527-570.
+- [15] Teplan M. Fundamentals of EEG measurement[J]. Measurement Science Review, 2002, 2(2): 1-11.
 
 ---
 
