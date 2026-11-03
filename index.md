@@ -16,6 +16,8 @@ has_toc: true
 
 👉 **[品牌与理念](docs/品牌与理念.md)**
 
+👉 **[招生简章](docs/招生简章.md)**
+
 👉 **[查看导师介绍](docs/导师介绍.md)**
 
 👉 **[GitHub 仓库](https://github.com/q1z2q3-debug/singbowl-healing-course)**
