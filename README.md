@@ -28,6 +28,7 @@ singbowl-healing-course/
 ├── LICENSE                          # 开源许可证（MIT）
 ├── index.md                         # GitHub Pages 首页
 ├── _config.yml                      # Jekyll 站点配置（Just the Docs 主题）
+├── 招生简章.html                     # 招生简章精美图文版（杂志排版，含二维码与报名入口）
 ├── 课程教材-颂钵疗愈师培训.md         # 教材正文（Markdown，约 6300 行）
 ├── docs/
 │   ├── 导师介绍.md                   # 导师介绍
@@ -87,6 +88,7 @@ singbowl-healing-course/
 - 🌐 **中英切换** —— 英文版核心章节（Chapter 1–2），一键切换
 - 📡 **RSS 订阅** —— 关注教材更新动态（feed.xml）
 - 🔗 **社交分享优化** —— Open Graph / Twitter Card 标签与分享预览图
+- 📄 **招生简章精美版** —— 杂志排版单页（`招生简章.html`），微信/电话/报名表直达入口
 
 ## 适用人群
 
