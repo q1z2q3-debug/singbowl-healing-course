@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d9d1c4"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="540" fill="#fdfaf3"/>
+  <rect width="960" height="540" fill="url(#dots)" opacity="0.7"/>
+  <path d="M0 0 H960 V8 H0 Z" fill="#b45c7a"/>
+  <text x="48" y="50" font-size="15" fill="#b45c7a" letter-spacing="2" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">第三章</text>
+  <g>
+    <rect x="792" y="30" width="120" height="34" rx="17" fill="#f9e9ee" stroke="#6c8ebf" stroke-width="1.5"/>
+    <text x="852" y="52" font-size="15" fill="#b45c7a" text-anchor="middle" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">图 3-17</text>
+  </g>
+  <text x="48" y="96" font-size="30" fill="#241d38" font-weight="600" text-anchor="start" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif"><tspan x="48" dy="0">太空人疗愈</tspan></text>
+  <line x1="48" y1="114" x2="912" y2="114" stroke="#b45c7a" stroke-width="2" opacity="0.35"/>
+<line x1="60" y1="300" x2="900" y2="300" stroke="#b45c7a" stroke-width="3" opacity="0.25"/>
+<circle cx="149.2" cy="300" r="26" fill="#b45c7a"/>
+<text x="149.2" y="307" font-size="19" fill="#fff" text-anchor="middle" font-weight="700">1</text>
+<rect x="48.0" y="350" width="202.5" height="120" rx="10" fill="#fff" stroke="#b45c7a" stroke-opacity="0.2"/>
+<text x="149.25" y="404.0" font-size="16" fill="#332b45" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="149.25" dy="0">耳鸣者，不宜操作，可通</tspan><tspan x="149.25" dy="24">过丁夏进行</tspan></text>
+<circle cx="369.8" cy="300" r="26" fill="#6c8ebf"/>
+<text x="369.8" y="307" font-size="19" fill="#fff" text-anchor="middle" font-weight="700">2</text>
+<rect x="268.5" y="350" width="202.5" height="120" rx="10" fill="#fff" stroke="#b45c7a" stroke-opacity="0.2"/>
+<text x="369.75" y="380.0" font-size="16" fill="#332b45" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="369.75" dy="0">📌 线下实操内容：本疗</tspan><tspan x="369.75" dy="24">法的完整操作流程（钵的</tspan><tspan x="369.75" dy="24">选择、摆放、敲击节奏与</tspan><tspan x="369.75" dy="24">…</tspan></text>
+<circle cx="590.2" cy="300" r="26" fill="#b45c7a"/>
+<text x="590.2" y="307" font-size="19" fill="#fff" text-anchor="middle" font-weight="700">3</text>
+<rect x="489.0" y="350" width="202.5" height="120" rx="10" fill="#fff" stroke="#b45c7a" stroke-opacity="0.2"/>
+<text x="590.25" y="380.0" font-size="16" fill="#332b45" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="590.25" dy="0">此处仅记录一项安全提示</tspan><tspan x="590.25" dy="24">：耳鸣者不宜直接操作，</tspan><tspan x="590.25" dy="24">需改用丁夏等替代方式—</tspan><tspan x="590.25" dy="24">…</tspan></text>
+<circle cx="810.8" cy="300" r="26" fill="#6c8ebf"/>
+<text x="810.8" y="307" font-size="19" fill="#fff" text-anchor="middle" font-weight="700">4</text>
+<rect x="709.5" y="350" width="202.5" height="120" rx="10" fill="#fff" stroke="#b45c7a" stroke-opacity="0.2"/>
+<text x="810.75" y="380.0" font-size="16" fill="#332b45" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="810.75" dy="0">&gt; 学习路径：线上可先</tspan><tspan x="810.75" dy="24">掌握「意识放松与观呼吸</tspan><tspan x="810.75" dy="24">」基础 → 具体手法预</tspan><tspan x="810.75" dy="24">…</tspan></text>
+  <line x1="48" y1="500" x2="912" y2="500" stroke="#d8d0c4" stroke-width="1"/>
+  <text x="48" y="522" font-size="13" fill="#8a8072" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">简念颂钵音疗中心 · 颂钵疗愈师培训教材</text>
+  <text x="912" y="522" font-size="12" fill="#a89f92" text-anchor="end" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">知识图解 · SVG</text>
+</svg>

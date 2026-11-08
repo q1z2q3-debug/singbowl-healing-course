@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d9d1c4"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="540" fill="#fdfaf3"/>
+  <rect width="960" height="540" fill="url(#dots)" opacity="0.7"/>
+  <path d="M0 0 H960 V8 H0 Z" fill="#7253ed"/>
+  <text x="48" y="50" font-size="15" fill="#7253ed" letter-spacing="2" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">第一章</text>
+  <g>
+    <rect x="792" y="30" width="120" height="34" rx="17" fill="#efe9ff" stroke="#c9a227" stroke-width="1.5"/>
+    <text x="852" y="52" font-size="15" fill="#7253ed" text-anchor="middle" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">图 1-9</text>
+  </g>
+  <text x="48" y="96" font-size="30" fill="#241d38" font-weight="600" text-anchor="start" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif"><tspan x="48" dy="0">传统钵的分类</tspan></text>
+  <line x1="48" y1="114" x2="912" y2="114" stroke="#7253ed" stroke-width="2" opacity="0.35"/>
+<rect x="48.0" y="170" width="201.0" height="290" rx="14" fill="#ffffff" stroke="#7253ed" stroke-opacity="0.22"/>
+<rect x="48.0" y="170" width="201.0" height="7" rx="3.5" fill="#7253ed"/>
+<circle cx="82.0" cy="216" r="17" fill="#efe9ff"/>
+<text x="82.0" y="222" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700" font-family="'Noto Serif SC',serif">1</text>
+<text x="70.0" y="266" font-size="18" fill="#332b45" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="70.0" dy="0">超过40年的钵（以目</tspan><tspan x="70.0" dy="28">前2020年的时间点</tspan><tspan x="70.0" dy="28">推算），就可以称之为</tspan><tspan x="70.0" dy="28">老钵，…</tspan></text>
+<rect x="269.0" y="170" width="201.0" height="290" rx="14" fill="#ffffff" stroke="#7253ed" stroke-opacity="0.22"/>
+<rect x="269.0" y="170" width="201.0" height="7" rx="3.5" fill="#c9a227"/>
+<circle cx="303.0" cy="216" r="17" fill="#efe9ff"/>
+<text x="303.0" y="222" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700" font-family="'Noto Serif SC',serif">2</text>
+<text x="291.0" y="266" font-size="18" fill="#332b45" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="291.0" dy="0">虽然说，颂钵可以被制</tspan><tspan x="291.0" dy="28">作，但当时的工艺，较</tspan><tspan x="291.0" dy="28">低的提炼技术、含有矿</tspan><tspan x="291.0" dy="28">物元素…</tspan></text>
+<rect x="490.0" y="170" width="201.0" height="290" rx="14" fill="#ffffff" stroke="#7253ed" stroke-opacity="0.22"/>
+<rect x="490.0" y="170" width="201.0" height="7" rx="3.5" fill="#7253ed"/>
+<circle cx="524.0" cy="216" r="17" fill="#efe9ff"/>
+<text x="524.0" y="222" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700" font-family="'Noto Serif SC',serif">3</text>
+<text x="512.0" y="266" font-size="18" fill="#332b45" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="512.0" dy="0">下面是传统钵的器型分</tspan><tspan x="512.0" dy="28">类，现代手工钵钵也模</tspan><tspan x="512.0" dy="28">仿传统钵的造型，也可</tspan><tspan x="512.0" dy="28">以叫相…</tspan></text>
+<rect x="711.0" y="170" width="201.0" height="290" rx="14" fill="#ffffff" stroke="#7253ed" stroke-opacity="0.22"/>
+<rect x="711.0" y="170" width="201.0" height="7" rx="3.5" fill="#c9a227"/>
+<circle cx="745.0" cy="216" r="17" fill="#efe9ff"/>
+<text x="745.0" y="222" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700" font-family="'Noto Serif SC',serif">4</text>
+<text x="733.0" y="266" font-size="18" fill="#332b45" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="733.0" dy="0">1.3.1.1.1 </tspan><tspan x="733.0" dy="28">藏巴帝 藏巴帝颂钵是</tspan><tspan x="733.0" dy="28">一种必备的疗愈颂钵，</tspan><tspan x="733.0" dy="28">可以追…</tspan></text>
+  <line x1="48" y1="500" x2="912" y2="500" stroke="#d8d0c4" stroke-width="1"/>
+  <text x="48" y="522" font-size="13" fill="#8a8072" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">简念颂钵音疗中心 · 颂钵疗愈师培训教材</text>
+  <text x="912" y="522" font-size="12" fill="#a89f92" text-anchor="end" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">知识图解 · SVG</text>
+</svg>
