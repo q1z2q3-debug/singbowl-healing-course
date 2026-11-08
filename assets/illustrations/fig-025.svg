@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d9d1c4"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="540" fill="#fdfaf3"/>
+  <rect width="960" height="540" fill="url(#dots)" opacity="0.7"/>
+  <path d="M0 0 H960 V8 H0 Z" fill="#7253ed"/>
+  <text x="48" y="50" font-size="15" fill="#7253ed" letter-spacing="2" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">第一章</text>
+  <g>
+    <rect x="792" y="30" width="120" height="34" rx="17" fill="#efe9ff" stroke="#c9a227" stroke-width="1.5"/>
+    <text x="852" y="52" font-size="15" fill="#7253ed" text-anchor="middle" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">图 1-23</text>
+  </g>
+  <text x="48" y="96" font-size="30" fill="#241d38" font-weight="600" text-anchor="start" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif"><tspan x="48" dy="0">**价格方面**</tspan></text>
+  <line x1="48" y1="114" x2="912" y2="114" stroke="#7253ed" stroke-width="2" opacity="0.35"/>
+<circle cx="480" cy="315" r="150" fill="#efe9ff" opacity="0.55"/>
+<circle cx="480" cy="315" r="182" fill="none" stroke="#c9a227" stroke-width="1.2" stroke-dasharray="4 8" opacity="0.55"/>
+<text x="480" y="212" font-size="48" fill="#7253ed" text-anchor="middle" opacity="0.35" font-family="Georgia,serif">“</text>
+<rect x="232" y="246" width="496" height="56" rx="28" fill="#fff" stroke="#7253ed" stroke-opacity="0.25"/>
+<circle cx="262" cy="274" r="13" fill="#7253ed"/>
+<text x="262" y="279" font-size="13" fill="#fff" text-anchor="middle">1</text>
+<text x="290" y="279" font-size="17" fill="#3a3150" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="290" dy="0">百元钵（音乐小钵）、千元钵（身心疗…</tspan></text>
+<rect x="232" y="320" width="496" height="56" rx="28" fill="#fff" stroke="#7253ed" stroke-opacity="0.25"/>
+<circle cx="262" cy="348" r="13" fill="#c9a227"/>
+<text x="262" y="353" font-size="13" fill="#fff" text-anchor="middle">2</text>
+<text x="290" y="353" font-size="17" fill="#3a3150" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="290" dy="0">现在相比之前，很多人从事颂钵疗愈，…</tspan></text>
+<text x="480" y="440" font-size="48" fill="#7253ed" text-anchor="middle" opacity="0.35" font-family="Georgia,serif">”</text>
+  <line x1="48" y1="500" x2="912" y2="500" stroke="#d8d0c4" stroke-width="1"/>
+  <text x="48" y="522" font-size="13" fill="#8a8072" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">简念颂钵音疗中心 · 颂钵疗愈师培训教材</text>
+  <text x="912" y="522" font-size="12" fill="#a89f92" text-anchor="end" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">知识图解 · SVG</text>
+</svg>

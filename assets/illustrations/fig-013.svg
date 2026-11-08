@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d9d1c4"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="540" fill="#fdfaf3"/>
+  <rect width="960" height="540" fill="url(#dots)" opacity="0.7"/>
+  <path d="M0 0 H960 V8 H0 Z" fill="#7253ed"/>
+  <text x="48" y="50" font-size="15" fill="#7253ed" letter-spacing="2" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">第一章</text>
+  <g>
+    <rect x="792" y="30" width="120" height="34" rx="17" fill="#efe9ff" stroke="#c9a227" stroke-width="1.5"/>
+    <text x="852" y="52" font-size="15" fill="#7253ed" text-anchor="middle" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">图 1-13</text>
+  </g>
+  <text x="48" y="96" font-size="30" fill="#241d38" font-weight="600" text-anchor="start" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif"><tspan x="48" dy="0">熔铸（矿物冶炼）</tspan></text>
+  <line x1="48" y1="114" x2="912" y2="114" stroke="#7253ed" stroke-width="2" opacity="0.35"/>
+<circle cx="480" cy="300" r="92" fill="#efe9ff" stroke="#7253ed" stroke-width="2"/>
+<circle cx="480" cy="300" r="72" fill="none" stroke="#c9a227" stroke-width="1.5" stroke-dasharray="4 5"/>
+<text x="480" y="296" font-size="20" fill="#7253ed" font-weight="700" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="480" dy="0">熔铸（矿物</tspan><tspan x="480" dy="26">冶炼）</tspan></text>
+<line x1="480.0" y1="236.0" x2="480.0" y2="162.0" stroke="#7253ed" stroke-width="1.4" opacity="0.4"/>
+<circle cx="480.0" cy="162.0" r="7" fill="#c9a227"/>
+<text x="480.0" y="130" font-size="15" fill="#3a3150" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="480.0" dy="0">无论是传统的工艺还是</tspan><tspan x="480.0" dy="21">现在的工业冶炼技术的</tspan></text>
+<line x1="559.7" y1="332.0" x2="683.5" y2="369.0" stroke="#7253ed" stroke-width="1.4" opacity="0.4"/>
+<circle cx="683.5" cy="369.0" r="7" fill="#c9a227"/>
+<text x="699.5159698893431" y="363.5" font-size="15" fill="#3a3150" font-weight="400" text-anchor="start" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="699.5159698893431" dy="0">自然铜矿石 通过研磨</tspan><tspan x="699.5159698893431" dy="21">，炼制铜块，将矿物…</tspan></text>
+<line x1="400.3" y1="332.0" x2="276.5" y2="369.0" stroke="#7253ed" stroke-width="1.4" opacity="0.4"/>
+<circle cx="276.5" cy="369.0" r="7" fill="#c9a227"/>
+<text x="260.48403011065693" y="363.50000000000006" font-size="15" fill="#3a3150" font-weight="400" text-anchor="end" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="260.48403011065693" dy="0">相对于其他的金属来说</tspan><tspan x="260.48403011065693" dy="21">，铜是最容易被人提…</tspan></text>
+  <line x1="48" y1="500" x2="912" y2="500" stroke="#d8d0c4" stroke-width="1"/>
+  <text x="48" y="522" font-size="13" fill="#8a8072" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">简念颂钵音疗中心 · 颂钵疗愈师培训教材</text>
+  <text x="912" y="522" font-size="12" fill="#a89f92" text-anchor="end" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">知识图解 · SVG</text>
+</svg>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Distribution Draft (Medium)
+nav_exclude: true
+---
+
 I just open-sourced a complete Singing Bowl Healing Course on GitHub.
 
 If you're into sound therapy, meditation, or holistic wellness, this might be exactly what you need.

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d9d1c4"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="540" fill="#fdfaf3"/>
+  <rect width="960" height="540" fill="url(#dots)" opacity="0.7"/>
+  <path d="M0 0 H960 V8 H0 Z" fill="#7253ed"/>
+  <text x="48" y="50" font-size="15" fill="#7253ed" letter-spacing="2" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">第一章</text>
+  <g>
+    <rect x="792" y="30" width="120" height="34" rx="17" fill="#efe9ff" stroke="#c9a227" stroke-width="1.5"/>
+    <text x="852" y="52" font-size="15" fill="#7253ed" text-anchor="middle" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif">图 1-6</text>
+  </g>
+  <text x="48" y="96" font-size="30" fill="#241d38" font-weight="600" text-anchor="start" font-family="'Noto Serif CJK SC','Source Han Serif SC','Noto Serif SC','Songti SC','SimSun',serif"><tspan x="48" dy="0">钵的探源</tspan></text>
+  <line x1="48" y1="114" x2="912" y2="114" stroke="#7253ed" stroke-width="2" opacity="0.35"/>
+<line x1="70" y1="320" x2="890" y2="320" stroke="#7253ed" stroke-width="3" opacity="0.35"/>
+<circle cx="110.0" cy="320" r="13" fill="#7253ed" stroke="#fff" stroke-width="3"/>
+<text x="110.0" y="292" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700">1500</text>
+<text x="110.0" y="250" font-size="14" fill="#4a405e" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="110.0" dy="0">贯穿整个历史的脉络里</tspan><tspan x="110.0" dy="19">，颂钵很可能是来自上</tspan></text>
+<circle cx="295.0" cy="320" r="13" fill="#c9a227" stroke="#fff" stroke-width="3"/>
+<text x="295.0" y="362" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700">1400</text>
+<text x="295.0" y="398" font-size="14" fill="#4a405e" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="295.0" dy="0">其中第四个文明是：亚</tspan><tspan x="295.0" dy="19">特兰蒂斯文明</tspan></text>
+<circle cx="480.0" cy="320" r="13" fill="#7253ed" stroke="#fff" stroke-width="3"/>
+<text x="480.0" y="292" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700">1300</text>
+<text x="480.0" y="250" font-size="14" fill="#4a405e" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="480.0" dy="0">亚特兰蒂斯文明是玛雅</tspan><tspan x="480.0" dy="19">人所推测的地球上的第</tspan></text>
+<circle cx="665.0" cy="320" r="13" fill="#c9a227" stroke="#fff" stroke-width="3"/>
+<text x="665.0" y="362" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700">1000</text>
+<text x="665.0" y="398" font-size="14" fill="#4a405e" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="665.0" dy="0">传说中拥有高度文明发</tspan><tspan x="665.0" dy="19">展的一个古老大陆，最</tspan></text>
+<circle cx="850.0" cy="320" r="13" fill="#7253ed" stroke="#fff" stroke-width="3"/>
+<text x="850.0" y="292" font-size="16" fill="#7253ed" text-anchor="middle" font-weight="700">2019</text>
+<text x="850.0" y="250" font-size="14" fill="#4a405e" font-weight="400" text-anchor="middle" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif"><tspan x="850.0" dy="0">根据玛雅历法的预言传</tspan><tspan x="850.0" dy="19">说，地球上人类所生存</tspan></text>
+  <line x1="48" y1="500" x2="912" y2="500" stroke="#d8d0c4" stroke-width="1"/>
+  <text x="48" y="522" font-size="13" fill="#8a8072" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">简念颂钵音疗中心 · 颂钵疗愈师培训教材</text>
+  <text x="912" y="522" font-size="12" fill="#a89f92" text-anchor="end" font-family="'Noto Sans CJK SC','Source Han Sans SC','Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">知识图解 · SVG</text>
+</svg>
