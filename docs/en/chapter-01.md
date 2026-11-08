@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 1: Introduction to Singing Bowls"
-nav_order: 5
+parent: English
+nav_order: 1
 has_toc: true
 ---
 
@@ -255,11 +256,11 @@ This practice trains the body to associate the bowl's tone with deep relaxation,
 
 ## References
 
-Numbered citations in this chapter follow the GB/T 7714 sequential coding system used across the full course materials. See the complete bilingual bibliography: [docs/参考文献.md](../参考文献.md).
+Numbered citations in this chapter follow the GB/T 7714 sequential coding system used across the full course materials. See the complete bilingual bibliography: [docs/参考文献.md](../参考文献.html).
 
 - [2] Ma Chengyuan. *Chinese Bronzes* (中国青铜器)[M]. Shanghai: Shanghai Ancient Works Publishing House, 2003.
 - [6] Classical Ayurvedic texts (Charaka Saṃhitā, etc.)[M]. Ancient India.
 
 ---
 
-*Next: [Chapter 2 — Theory Foundations](chapter-02.md)*
+*Next: [Chapter 2 — Theory Foundations](chapter-02.html)*

@@ -29,7 +29,7 @@ singbowl-healing-course/
 ├── index.md                         # GitHub Pages 首页
 ├── _config.yml                      # Jekyll 站点配置（Just the Docs 主题）
 ├── 招生简章.html                     # 招生简章精美图文版（杂志排版，含二维码与报名入口）
-├── 课程教材-颂钵疗愈师培训.md         # 教材正文（Markdown，约 6300 行）
+├── 课程教材-颂钵疗愈师培训.md         # 教材正文（Markdown，约 6400 行）
 ├── docs/
 │   ├── 导师介绍.md                   # 导师介绍
 │   ├── 招生简章.md                   # 简念颂钵音疗中心线下培训招生简章（课程/双证/报名）
@@ -47,6 +47,7 @@ singbowl-healing-course/
 │   ├── 外链分发-知乎.md / 简书.md / Medium.md
 │   ├── assets/                      # 导师照片、微信二维码等
 │   └── en/                          # 英文版核心章节
+│       ├── index.md                 # English Edition 导航页
 │       ├── chapter-01.md            # Chapter 1: Introduction to Singing Bowls
 │       └── chapter-02.md            # Chapter 2: Theory Foundations
 ├── assets/
@@ -80,6 +81,8 @@ singbowl-healing-course/
 
 - 🔍 **全文搜索** —— 站内即时搜索所有章节与文档
 - 📖 **侧边目录** —— 5 大章节 + 子节自动生成可折叠目录，一键跳转
+- 🧭 **目录锚点修复** —— 教材 160+ 条目录链接与标题锚点一一对应，点击即可直达
+- ✏️ **GitHub 编辑入口** —— 每页可直接跳转对应源文件，便于提交修订
 - 📱 **移动端适配** —— 触控友好、图片自适应、表格横向滚动
 - 🚀 **返回顶部与阅读进度条** —— 长文阅读体验优化
 - 🔖 **阅读进度书签** —— 浏览器本地记录阅读位置，下次自动恢复
@@ -88,6 +91,8 @@ singbowl-healing-course/
 - 🌐 **中英切换** —— 英文版核心章节（Chapter 1–2），一键切换
 - 📡 **RSS 订阅** —— 关注教材更新动态（feed.xml）
 - 🔗 **社交分享优化** —— Open Graph / Twitter Card 标签与分享预览图
+- 🖨️ **打印友好** —— 打印时自动隐藏导航与浮动控件，正文占满页面
+- ♿ **无障碍与移动端优化** —— 键盘焦点可见、触控区域合理、表格横向滚动不挤压正文
 - 📄 **招生简章精美版** —— 杂志排版单页（`招生简章.html`），微信/电话/报名表直达入口
 
 ## 适用人群

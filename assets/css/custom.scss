@@ -1,48 +1,20 @@
 ---
 ---
 
-// 移动端适配与阅读体验增强样式
-@media screen and (max-width: 768px) {
-  body {
-    font-size: 16px !important;
-    line-height: 1.7 !important;
-  }
-  
-  .main-content {
-    padding: 1rem !important;
-  }
-  
-  h1 {
-    font-size: 1.75rem !important;
-  }
-  
-  h2 {
-    font-size: 1.4rem !important;
-  }
-  
-  h3 {
-    font-size: 1.2rem !important;
-  }
-  
-  // 增大触控区域
-  a, button {
-    min-height: 44px;
-    min-width: 44px;
-  }
-  
-  // 图片自适应
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-  }
-  
-  // 表格横向滚动
-  table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
+// 阅读体验增强与移动端适配样式
+
+// 平滑滚动（尊重系统「减少动态效果」设置）
+html {
+  scroll-behavior: smooth;
+}
+
+// 键盘焦点可见
+a:focus-visible,
+button:focus-visible,
+.btn:focus-visible,
+.search-input:focus-visible {
+  outline: 3px solid #7253ed;
+  outline-offset: 2px;
 }
 
 // 通用图片自适应
@@ -51,4 +23,98 @@ img {
   height: auto;
 }
 
-// 进度条样式已在 JS 中内联，无需额外 CSS
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16px !important;
+    line-height: 1.7 !important;
+  }
+
+  .main-content {
+    padding: 1rem !important;
+  }
+
+  h1 {
+    font-size: 1.75rem !important;
+  }
+
+  h2 {
+    font-size: 1.4rem !important;
+  }
+
+  h3 {
+    font-size: 1.2rem !important;
+  }
+
+  // 仅对按钮与导航项增大触控区域，避免撑开正文内联链接
+  button,
+  .btn,
+  .nav-list-link,
+  .search-input {
+    min-height: 44px;
+  }
+
+  .nav-list-link {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  // 表格横向滚动，单元格内文字正常换行
+  table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  th,
+  td {
+    white-space: normal;
+    word-break: break-word;
+    font-size: 0.9rem;
+  }
+}
+
+// 打印：隐藏导航与浮动控件，正文占满页面
+@media print {
+  .side-bar,
+  .site-header,
+  .site-footer,
+  .aux-nav,
+  #back-to-top,
+  #lang-switch,
+  #reading-progress,
+  #progress-restore {
+    display: none !important;
+  }
+
+  .main-content {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+}
+
+// 尊重「减少动态效果」偏好
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 2: Theory Foundations"
-nav_order: 6
+parent: English
+nav_order: 2
 has_toc: true
 ---
 
@@ -333,7 +334,7 @@ Traditional Chinese Medicine's **meridian system** offers precise maps for bowl 
 
 ## References
 
-Numbered citations in this chapter follow the GB/T 7714 sequential coding system used across the full course materials. See the complete bilingual bibliography: [docs/参考文献.md](../参考文献.md).
+Numbered citations in this chapter follow the GB/T 7714 sequential coding system used across the full course materials. See the complete bilingual bibliography: [docs/参考文献.md](../参考文献.html).
 
 - [9] Misrani A, Yang L, Long C, et al. Vibration-reduced anxiety-like behavior relies on ameliorating abnormalities of the somatosensory cortex and medial prefrontal cortex[J]. Neural Regeneration Research, 2024.
 - [10] Goldsby T L, et al. Effects of singing bowl sound meditation on mood, tension, and well-being: an observational study[J]. Journal of Evidence-Based Complementary & Alternative Medicine, 2017, 22(3): 401-406.
@@ -344,5 +345,5 @@ Numbered citations in this chapter follow the GB/T 7714 sequential coding system
 
 ---
 
-*Previous: [Chapter 1 — Introduction to Singing Bowls](chapter-01.md)*  
+*Previous: [Chapter 1 — Introduction to Singing Bowls](chapter-01.html)*  
 *Next: Chapter 3 — Practical Applications (coming soon)*

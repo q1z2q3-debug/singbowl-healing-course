@@ -31,6 +31,14 @@ timezone: Asia/Shanghai
 # Just the Docs 导航配置
 nav_order: 1
 
+# Just the Docs 阅读体验
+heading_anchors: true
+gh_edit_link: true
+gh_edit_link_text: "在 GitHub 上编辑此页"
+gh_edit_repository: "https://github.com/q1z2q3-debug/singbowl-healing-course"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
 # 搜索配置
 search_enabled: true
 search:
